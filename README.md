@@ -7,12 +7,17 @@
 
 
 
+<p align="center">
+  <img src="https://github.com/klzheng/fe-takehome-fetchrewards/blob/main/public/demo.png" alt="Project Demo" width="100%"  />
+</p>
+
+
 <!-- TABLE OF CONTENTS -->
 <details>
     <ol>
-        <li><a  href="#Take Home Assessment">Take Home Assessment</a></li>
-        <li><a  href="#Built With">Built With</a></li>
-        <li><a  href="#Run Locally">Run Locally</a></li>
+        <li>Take Home Assessment</li>
+        <li>Built With</li>
+        <li>Run Locally</li>
     </ol>
 </details>
 
