@@ -5,6 +5,7 @@
 }
 
 .container {
+  position: relative;
   max-width: 400px;
   height: 100vh;
   display: flex;
@@ -16,7 +17,10 @@
 
 .btn-center {
   width: 150px;
-  margin: 20px auto;
+  position: absolute;
+  top: 5%;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .heading-center {
